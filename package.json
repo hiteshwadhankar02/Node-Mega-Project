@@ -1,0 +1,11 @@
+{
+  "name": "node_project_mega",
+  "version": "1.0.0",
+  "description": "A Backend with help of chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hitesh Wadhankar",
+  "license": "ISC"
+}
